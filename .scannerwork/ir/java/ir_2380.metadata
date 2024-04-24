@@ -1,0 +1,1 @@
+com.simplecity.amp_library.utils.LegacyUtils#deleteOldResources(Lcom/simplecity/amp_library/ShuttleApplication;)LCompletable;

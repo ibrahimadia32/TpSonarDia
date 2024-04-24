@@ -1,0 +1,6 @@
+com.simplecity.amp_library.playback.MusicService#onMetaChanged()V
+com.simplecity.amp_library.playback.MusicService#getPebbleIntent(Lcom/simplecity/amp_library/model/Song;)LIntent;
+com.simplecity.amp_library.playback.MusicService#getExtras(Lcom/simplecity/amp_library/model/Song;)LBundle;
+com.simplecity.amp_library.playback.MusicService#getTaskerIntent(Lcom/simplecity/amp_library/model/Song;)LIntent;
+==
+updateNotification com.simplecity.amp_library.playback.MusicService#updateNotification()V

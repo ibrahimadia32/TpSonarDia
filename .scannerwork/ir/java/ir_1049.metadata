@@ -1,0 +1,3 @@
+com.simplecity.amp_library.ui.screens.miniplayer.MiniPlayerFragment#onViewCreated(LView;LBundle;)V
+==
+onViewCreated com.simplecity.amp_library.ui.common.BaseFragment#onViewCreated(LView;LBundle;)V

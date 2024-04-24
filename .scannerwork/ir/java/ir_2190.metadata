@@ -1,0 +1,3 @@
+com.simplecity.amp_library.playback.MusicService#onTrackEnded()V
+==
+hasPlayed com.simplecity.amp_library.model.Song#hasPlayed()Z

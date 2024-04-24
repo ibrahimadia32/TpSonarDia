@@ -1,0 +1,3 @@
+com.simplecity.amp_library.ui.screens.main.LibraryController#onViewCreated(LView;LBundle;)V
+==
+toolbarAttached com.simplecity.amp_library.ui.common.ToolbarListener#toolbarAttached(LToolbar;)V

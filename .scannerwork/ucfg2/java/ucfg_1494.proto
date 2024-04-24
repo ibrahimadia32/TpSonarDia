@@ -1,0 +1,64 @@
+
+[com.simplecity.amp_library.model.Album#compareTo(Lcom/simplecity/amp_library/model/Album;)Iš
+/C:/Users/Ibou/OneDrive/Bureau/tpSonarcube/sonarCloudTp/bin/project/Shuttle-dev/app/src/main/java/com/simplecity/amp_library/model/Album.javaı ı("startingBlock*ü
+startingBlock
+ı ı(.¤
+¡
+
+ü ü(
+%2"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*M
+
+__unknown_file (1
+/
+album&com.simplecity.amp_library.model.Album™
+–
+
+ı ı(!
+%3"
+__annotate*'
+
+__unknown_file (	
+NonNull*M
+
+__unknown_file (1
+/
+album&com.simplecity.amp_library.model.Album–
+“
+
+ı( ı(-/
+album&com.simplecity.amp_library.model.Album"__annotation*"
+
+__unknown_file (
+
+%2*"
+
+__unknown_file (
+
+%3*
+1*º
+1
+ş ş(ÄÁ
+
+ş' ş(3
+%0java.lang.String"Ecom.simplecity.amp_library.model.Album#getSortKey()Ljava/lang/String;*F
+
+__unknown_file (*(
+&com.simplecity.amp_library.model.Album2getSortKey()ËÈ
+
+ş5 ş(G
+%1java.lang.String"Ecom.simplecity.amp_library.model.Album#getSortKey()Ljava/lang/String;*M
+
+__unknown_file (1
+/
+album&com.simplecity.amp_library.model.Album2getSortKey()"
+
+ş ş(I
+"":=
+
+ı ı(-/
+album&com.simplecity.amp_library.model.AlbumB*(
+&com.simplecity.amp_library.model.AlbumHX

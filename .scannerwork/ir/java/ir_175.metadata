@@ -1,0 +1,7 @@
+com.simplecity.amp_library.playback.MediaSessionManager#updateMediaSession(Ljava/lang/String;)V
+null
+java.lang.String#valueOf([C)Ljava/lang/String;
+com.simplecity.amp_library.playback.MediaSessionManager#getMediaSessionActions()J
+com.simplecity.amp_library.androidauto.CarHelper#isCarUiMode(LContext;)Z
+java.lang.String#equals(Ljava/lang/Object;)Z
+com.simplecity.amp_library.playback.MediaSessionManager#updateMediaSessionArtwork(LMediaMetadataCompat/Builder;)V

@@ -1,0 +1,2 @@
+com.afollestad.aesthetic.AestheticDialogButton#onAttachedToWindow()V
+com.afollestad.aesthetic.ViewTextColorAction#create(LTextView;)Lcom/afollestad/aesthetic/ViewTextColorAction;

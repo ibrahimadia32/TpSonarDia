@@ -1,0 +1,4 @@
+com.simplecity.amp_library.playback.MusicService#getTaskerIntent(Lcom/simplecity/amp_library/model/Song;)LIntent;
+null
+==
+isPlaying com.simplecity.amp_library.playback.MusicService#isPlaying()Z

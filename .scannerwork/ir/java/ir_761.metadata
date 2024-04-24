@@ -1,0 +1,4 @@
+com.simplecity.amp_library.ui.settings.SettingsPresenter#primaryColorClicked(LContext;)V
+null
+com.simplecity.amp_library.utils.ColorPalette#getPrimaryColors(LContext;LSettingsManager;)[I
+com.simplecity.amp_library.utils.ColorPalette#getPrimaryColorsSub(LContext;LSettingsManager;)[[I

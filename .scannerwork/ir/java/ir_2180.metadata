@@ -1,0 +1,4 @@
+com.simplecity.amp_library.playback.MusicService#cancelNotification()V
+==
+cancel com.simplecity.amp_library.notifications.MusicNotificationHelper#cancel()V
+stopForegroundImpl com.simplecity.amp_library.playback.MusicService#stopForegroundImpl(ZZ)V

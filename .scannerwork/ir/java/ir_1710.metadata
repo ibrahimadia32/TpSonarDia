@@ -1,0 +1,3 @@
+com.simplecity.amp_library.ui.views.PlayPauseView#setDrawableColor(I)V
+==
+setColor com.simplecity.amp_library.ui.views.PlayPauseDrawable#setColor(I)V

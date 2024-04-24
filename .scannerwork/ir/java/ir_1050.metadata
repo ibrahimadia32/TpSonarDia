@@ -1,0 +1,3 @@
+com.simplecity.amp_library.ui.screens.miniplayer.MiniPlayerFragment#onResume()V
+==
+onResume com.simplecity.amp_library.ui.common.BaseFragment#onResume()V

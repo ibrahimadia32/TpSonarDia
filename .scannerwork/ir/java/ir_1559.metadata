@@ -1,0 +1,4 @@
+com.simplecity.amp_library.ui.modelviews.EmptyView#bindView(Lcom/simplecity/amp_library/ui/modelviews/EmptyView$ViewHolder;)V
+null
+==
+bindView com.simplecityapps.recycler_adapter.model.BaseViewModel#bindView(LBaseViewHolder;)V

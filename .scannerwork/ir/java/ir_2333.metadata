@@ -1,0 +1,8 @@
+com.simplecity.amp_library.model.Song#getAlbum()Lcom/simplecity/amp_library/model/Album;
+null
+com.simplecity.amp_library.model.Album$Builder#instance-init#
+com.simplecity.amp_library.model.Album$Builder#<init>()V
+==
+name com.simplecity.amp_library.model.Album$Builder#name(Ljava/lang/String;)Lcom/simplecity/amp_library/model/Album$Builder;
+id com.simplecity.amp_library.model.Album$Builder#id(J)Lcom/simplecity/amp_library/model/Album$Builder;
+addArtist com.simplecity.amp_library.model.Album$Builder#addArtist(LArtist;)Lcom/simplecity/amp_library/model/Album$Builder;

@@ -1,0 +1,3 @@
+com.simplecity.amp_library.ui.screens.miniplayer.MiniPlayerFragment#onDestroy()V
+==
+onDestroy com.simplecity.amp_library.ui.common.BaseFragment#onDestroy()V

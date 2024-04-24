@@ -1,0 +1,4 @@
+com.simplecity.amp_library.ui.widgets.BaseWidgetProvider#loadArtwork(Lcom/simplecity/amp_library/playback/MusicService;LRemoteViews;ILCustomAppWidgetTarget/CustomErrorListener;[I)V
+null
+==
+getSong com.simplecity.amp_library.playback.MusicService#getSong()Lcom/simplecity/amp_library/model/Song;

@@ -1,0 +1,4 @@
+com.afollestad.aesthetic.AestheticFab#invalidateColors(LColorIsDarkState;)V
+com.afollestad.aesthetic.TintHelper#setTintAuto(LView;IZZ)V
+==
+setImageDrawable com.afollestad.aesthetic.AestheticFab#setImageDrawable(LDrawable;)V

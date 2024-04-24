@@ -1,0 +1,3 @@
+com.simplecity.amp_library.ui.modelviews.AlbumView#bindView(Lcom/simplecity/amp_library/ui/modelviews/AlbumView$ViewHolder;ILjava/util/List;)V
+==
+bindView com.simplecity.amp_library.ui.modelviews.MultiItemView#bindView(Lcom/simplecity/amp_library/ui/modelviews/MultiItemView$ViewHolder;ILjava/util/List;)V

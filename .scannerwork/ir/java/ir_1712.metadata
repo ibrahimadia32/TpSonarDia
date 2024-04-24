@@ -1,0 +1,4 @@
+com.simplecity.amp_library.ui.views.PlayPauseView#onDraw(LCanvas;)V
+java.lang.Math#min(II)I
+==
+draw com.simplecity.amp_library.ui.views.PlayPauseDrawable#draw(LCanvas;)V

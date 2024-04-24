@@ -1,0 +1,2 @@
+com.afollestad.aesthetic.AestheticSwitch#onAttachedToWindow()V
+com.afollestad.aesthetic.ViewUtil#getObservableForResId(LContext;ILObservable;)LObservable;

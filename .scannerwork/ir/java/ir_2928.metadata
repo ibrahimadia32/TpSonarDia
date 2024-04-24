@@ -1,0 +1,4 @@
+com.simplecity.amp_library.ui.views.AestheticDrawableTextView#onAttachedToWindow()V
+com.afollestad.aesthetic.ViewUtil#getObservableForResId(LContext;ILObservable;)LObservable;
+==
+invalidateColors com.simplecity.amp_library.ui.views.AestheticDrawableTextView#invalidateColors(I)V

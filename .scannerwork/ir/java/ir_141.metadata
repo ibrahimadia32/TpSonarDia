@@ -1,0 +1,2 @@
+com.simplecity.amp_library.ui.screens.main.LibraryController#onCreateOptionsMenu(LMenu;LMenuInflater;)V
+com.simplecity.amp_library.cast.CastManager#isCastAvailable(LContext;LSettingsManager;)Z

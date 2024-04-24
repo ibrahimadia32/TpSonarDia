@@ -1,0 +1,3 @@
+com.afollestad.aesthetic.AestheticEditText#invalidateColors(LColorIsDarkState;)V
+com.afollestad.aesthetic.TintHelper#setTintAuto(LView;IZZ)V
+com.afollestad.aesthetic.TintHelper#setCursorTint(LEditText;I)V

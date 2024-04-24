@@ -1,0 +1,2 @@
+com.afollestad.aesthetic.AestheticFab#setImageDrawable(LDrawable;)V
+com.afollestad.aesthetic.TintHelper#createTintedDrawable(LDrawable;I)LDrawable;

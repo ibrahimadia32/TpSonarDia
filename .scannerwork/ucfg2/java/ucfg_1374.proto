@@ -1,0 +1,22 @@
+
+7com.simplecity.amp_library.model.Song#getElapsedTime()J™
+Œ/C:/Users/Ibou/OneDrive/Bureau/tpSonarcube/sonarCloudTp/bin/project/Shuttle-dev/app/src/main/java/com/simplecity/amp_library/model/Song.javaÔ Ô("1"2*%
+2
+Ö Ö("
+
+Ö Ö(
+""*š
+1
+Ø Ø(s
+q
+
+Ø! Ø(;
+
+%0long"%java.lang.System#currentTimeMillis()J*0
+
+__unknown_file ("
+java.lang.System"
+
+Ø Ø(H
+""B)'
+%com.simplecity.amp_library.model.SongX

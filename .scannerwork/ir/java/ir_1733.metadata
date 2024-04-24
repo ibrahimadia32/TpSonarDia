@@ -1,0 +1,2 @@
+com.afollestad.aesthetic.AestheticScrollView#invalidateColors(I)V
+com.afollestad.aesthetic.EdgeGlowUtil#setEdgeGlowColor(LScrollView;I)V

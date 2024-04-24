@@ -1,0 +1,191 @@
+
+Xcom.simplecity.amp_library.ui.modelviews.SuggestedHeaderView#equals(Ljava/lang/Object;)Z®
+£/C:/Users/Ibou/OneDrive/Bureau/tpSonarcube/sonarCloudTp/bin/project/Shuttle-dev/app/src/main/java/com/simplecity/amp_library/ui/modelviews/SuggestedHeaderView.java` `("startingBlock*ó
+2fX f(\Å
+Â
+fX f(l7
+%120com.simplecity.amp_library.model.SuggestedHeader"__id*w
+
+__unknown_file ([*Y
+D
+that<com.simplecity.amp_library.ui.modelviews.SuggestedHeaderView"
+suggestedHeaderÆ
+Ã
+fX f(t
+%9boolean"	__compare*"
+
+__unknown_file (
+==*U
+
+__unknown_file (9
+7
+%120com.simplecity.amp_library.model.SuggestedHeader*"
+
+__unknown_file (
+""N
+L
+fX f(t
+%7boolean"__id*+
+
+__unknown_file (
+
+%9boolean*
+1*£
+3f) f(8¿
+¼
+f) f(87
+%100com.simplecity.amp_library.model.SuggestedHeader"__id*q
+
+__unknown_file (U*S>
+<com.simplecity.amp_library.ui.modelviews.SuggestedHeaderView"
+suggestedHeaderÅ
+Â
+f@ f(T7
+%110com.simplecity.amp_library.model.SuggestedHeader"__id*w
+
+__unknown_file ([*Y
+D
+that<com.simplecity.amp_library.ui.modelviews.SuggestedHeaderView"
+suggestedHeader´±
+f) f(U
+%8boolean"Lcom.simplecity.amp_library.model.SuggestedHeader#equals(Ljava/lang/Object;)Z*U
+
+__unknown_file (9
+7
+%100com.simplecity.amp_library.model.SuggestedHeader*U
+
+__unknown_file (9
+7
+%110com.simplecity.amp_library.model.SuggestedHeader2equals(Ljava/lang/Object;)N
+L
+f) f(U
+%7boolean"__id*+
+
+__unknown_file (
+
+%8boolean*
+1*‚
+startingBlock` `(#‰
+†
+_ _(
+%13"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*3
+
+__unknown_file (
+
+ojava.lang.ObjectV
+T
+`! `("
+ojava.lang.Object"__annotation*#
+
+__unknown_file (
+
+%13*
+9*¯
+4d9 d(:Ž
+‹
+d d(;D
+that<com.simplecity.amp_library.ui.modelviews.SuggestedHeaderView"__id*3
+
+__unknown_file (
+
+ojava.lang.Object¾
+»
+f f(6
+%50com.simplecity.amp_library.model.SuggestedHeader"__id*q
+
+__unknown_file (U*S>
+<com.simplecity.amp_library.ui.modelviews.SuggestedHeaderView"
+suggestedHeaderÅ
+Â
+f f(&
+%6boolean"	__compare*"
+
+__unknown_file (
+!=*T
+
+__unknown_file (8
+6
+%50com.simplecity.amp_library.model.SuggestedHeader*"
+
+__unknown_file (
+""*
+2
+3*!
+5b< b(A"
+b5 b(B
+""*¢
+6b b(!¼¹
+b b(#
+%2java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*\
+
+__unknown_file (@>
+<com.simplecity.amp_library.ui.modelviews.SuggestedHeaderView2
+getClass()“
+b' b(3
+%3java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*3
+
+__unknown_file (
+
+ojava.lang.Object2
+getClass()µ
+²
+b b(3
+%4boolean"	__compare*"
+
+__unknown_file (
+!=*3
+
+__unknown_file (
+
+%2java.lang.Class*3
+
+__unknown_file (
+
+%3java.lang.Class*
+4
+5*¼
+7b b(¤
+¡
+b b(
+%1boolean"	__compare*"
+
+__unknown_file (
+==*3
+
+__unknown_file (
+
+ojava.lang.Object*"
+
+__unknown_file (
+""*
+5
+6*!
+8a a(""
+a a(#
+""*ö
+9a a(Þ
+Û
+a a(
+%0boolean"	__compare*"
+
+__unknown_file (
+==*\
+
+__unknown_file (@>
+<com.simplecity.amp_library.ui.modelviews.SuggestedHeaderView*3
+
+__unknown_file (
+
+ojava.lang.Object*
+7
+8*!
+1f f(u"
+f f(u
+"":!
+` `("
+ojava.lang.ObjectB@>
+<com.simplecity.amp_library.ui.modelviews.SuggestedHeaderViewHX

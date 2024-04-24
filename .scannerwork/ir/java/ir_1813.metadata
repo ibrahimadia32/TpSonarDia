@@ -1,0 +1,10 @@
+com.simplecity.amp_library.ui.screens.folders.FolderFragment#onCreateView(LLayoutInflater;LViewGroup;LBundle;)LView;
+null
+com.afollestad.aesthetic.Rx#onErrorLogAndRethrow()LConsumer;
+com.afollestad.aesthetic.Rx#distinctToMainThread()LObservableTransformer;
+com.afollestad.aesthetic.Aesthetic#get(LContext;)Lcom/afollestad/aesthetic/Aesthetic;
+com.simplecity.amp_library.ui.screens.folders.FolderFragment#updateMenuItems(LMenu;)V
+==
+addBreadcrumbListener com.simplecity.amp_library.interfaces.Breadcrumb#addBreadcrumbListener(LBreadcrumbListener;)V
+changeBreadcrumbPath com.simplecity.amp_library.ui.screens.folders.FolderFragment#changeBreadcrumbPath()V
+changeBreadcrumbPath com.simplecity.amp_library.interfaces.Breadcrumb#changeBreadcrumbPath(Ljava/lang/String;)V

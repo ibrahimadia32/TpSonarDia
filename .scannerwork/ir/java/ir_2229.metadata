@@ -1,0 +1,5 @@
+com.simplecity.amp_library.ui.widgets.BaseWidgetProvider#notifyChange(Lcom/simplecity/amp_library/playback/MusicService;Ljava/lang/String;)V
+com.simplecity.amp_library.ui.widgets.BaseWidgetProvider#getInstances(LContext;)[I
+==
+getSharedPreferences com.simplecity.amp_library.ui.widgets.BaseWidgetProvider#getSharedPreferences(LContext;)LSharedPreferences;
+update com.simplecity.amp_library.ui.widgets.BaseWidgetProvider#update(Lcom/simplecity/amp_library/playback/MusicService;LSharedPreferences;[IZ)V

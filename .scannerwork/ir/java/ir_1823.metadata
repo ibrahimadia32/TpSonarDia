@@ -1,0 +1,6 @@
+com.simplecity.amp_library.ui.screens.folders.FolderFragment#onBreadcrumbItemClick(Lcom/simplecity/amp_library/ui/views/BreadcrumbItem;)V
+java.io.File#<init>(Ljava/lang/String;)V
+java.io.File#instance-init#
+==
+getItemPath com.simplecity.amp_library.ui.views.BreadcrumbItem#getItemPath()Ljava/lang/String;
+changeDir com.simplecity.amp_library.ui.screens.folders.FolderFragment#changeDir(Ljava/io/File;)V

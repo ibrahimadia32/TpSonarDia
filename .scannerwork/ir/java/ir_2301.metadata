@@ -1,0 +1,3 @@
+com.simplecity.amp_library.notifications.MusicNotificationHelper#getBuilder(LContext;Lcom/simplecity/amp_library/model/Song;LMediaSessionCompat/Token;LBitmap;ZZ)LNotificationCompat/Builder;
+null
+com.simplecity.amp_library.playback.MusicService#retrievePlaybackAction(LContext;Ljava/lang/String;)LPendingIntent;

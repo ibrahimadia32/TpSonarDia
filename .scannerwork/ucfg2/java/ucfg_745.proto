@@ -1,0 +1,43 @@
+
+ƒcom.simplecity.amp_library.utils.sorting.SortManager#getPlaylistDetailAlbumsSortOrder(Lcom/simplecity/amp_library/model/Playlist;)I¨
+›/C:/Users/Ibou/OneDrive/Bureau/tpSonarcube/sonarCloudTp/bin/project/Shuttle-dev/app/src/main/java/com/simplecity/amp_library/utils/sorting/SortManager.java„ „(/"1*ë
+1
+… …(P
+N
+
+…4 …(N
+%0java.lang.String"__id*"
+
+__unknown_file (
+""¬
+©
+
+… …(\
+%1java.lang.String"Pjava.lang.String#format(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;*0
+
+__unknown_file ("
+java.lang.String*%
+
+__unknown_file (	
+%s_%s*4
+
+__unknown_file (
+
+%0java.lang.String*"
+
+__unknown_file (
+""C
+A
+
+…^ …(o	
+%2int"__id*"
+
+__unknown_file (
+"""
+
+… …(q
+"":C
+
+„0 „(A5
+playlist)com.simplecity.amp_library.model.PlaylistB86
+4com.simplecity.amp_library.utils.sorting.SortManagerHX

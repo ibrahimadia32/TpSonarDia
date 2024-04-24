@@ -1,0 +1,84 @@
+
+Xcom.simplecity.amp_library.model.Song#getAlbum()Lcom/simplecity/amp_library/model/Album;ô
+å/C:/Users/Ibou/OneDrive/Bureau/tpSonarcube/sonarCloudTp/bin/project/Shuttle-dev/app/src/main/java/com/simplecity/amp_library/model/Song.java§ §("1*Ñ
+1
+• •("tr
+
+• •( 4
+%0.com.simplecity.amp_library.model.Album$Builder".com.simplecity.amp_library.model.Album$Builder£
+†
+
+• •("
+%1"8com.simplecity.amp_library.model.Album$Builder#<init>()V*R
+
+__unknown_file (6
+4
+%0.com.simplecity.amp_library.model.Album$Builder™ß
+
+• ¶(4
+%2.com.simplecity.amp_library.model.Album$Builder"dcom.simplecity.amp_library.model.Album$Builder#id(J)Lcom/simplecity/amp_library/model/Album$Builder;*R
+
+__unknown_file (6
+4
+%0.com.simplecity.amp_library.model.Album$Builder*"
+
+__unknown_file (
+""2id(J)É
+Ä
+
+ß ß(
+%3java.lang.String"__id*T
+
+__unknown_file (8*6'
+%com.simplecity.amp_library.model.Song"
+	albumName‚ﬂ
+
+• ß( 4
+%4.com.simplecity.amp_library.model.Album$Builder"wcom.simplecity.amp_library.model.Album$Builder#name(Ljava/lang/String;)Lcom/simplecity/amp_library/model/Album$Builder;*R
+
+__unknown_file (6
+4
+%2.com.simplecity.amp_library.model.Album$Builder*4
+
+__unknown_file (
+
+%3java.lang.String2name(Ljava/lang/String;)Ñ
+Å
+
+®0 ®(:
+%5java.lang.String"__id*U
+
+__unknown_file (9*7'
+%com.simplecity.amp_library.model.Song"
+
+artistNameñì
+
+• ®(<
+%6"rcom.simplecity.amp_library.model.Album$Builder#addArtist(LArtist;)Lcom/simplecity/amp_library/model/Album$Builder;*R
+
+__unknown_file (6
+4
+%4.com.simplecity.amp_library.model.Album$Builder*"
+
+__unknown_file (
+""2addArtist(LArtist;)â
+Ü
+
+© ©(,
+%7java.lang.String"__id*Z
+
+__unknown_file (>*<'
+%com.simplecity.amp_library.model.Song"
+albumArtistName}
+{
+
+Ø Ø(
+%8java.lang.String"__id*O
+
+__unknown_file (3*1'
+%com.simplecity.amp_library.model.Song"
+path"
+
+• ±(
+""B)'
+%com.simplecity.amp_library.model.SongH
